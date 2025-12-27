@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "powerbi-modeling-mcp": {
+      "command": "COLE AQUI O CAMINHO ",
+      "args": ["--start"],
+      "type": "stdio"
+    }
+  }
+}
